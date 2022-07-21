@@ -3,7 +3,7 @@ import { Component, OnInit,Input } from '@angular/core';
 import { Task } from '../../Task';
 
 // import { faTimes } from '@fortawesome/free-solid-svg-icons';
-import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+//import { faCoffee } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-task-item',
