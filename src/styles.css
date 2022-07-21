@@ -8,6 +8,7 @@
 
 body{
     font-family: "Poppins",sans-serif;
+   
 }
 
 
@@ -23,7 +24,8 @@ body{
 }
 
 .btn{
-    display: inline-block;
+
+    display:  inline-block;
     background:#000;
     color: #fff;
     border: none;
